@@ -1,0 +1,24 @@
+{
+  "titulo": "meuchat-pc",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "app/index.html",
+      "nome": "Meu Chat",
+      "desc": "",
+      "on": true,
+      "icone": "app/icons/icon.svg"
+    },
+    {
+      "path": "electron/navegador.html",
+      "nome": "🌐 Navegador — Mini SK",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    }
+  ],
+  "sub": "",
+  "logo": "🎤",
+  "tema": "dourado",
+  "links": []
+}
